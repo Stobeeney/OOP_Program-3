@@ -1,6 +1,6 @@
 # Name: Daniel Rein M. Cosare
 # Course/Section/Year: BSCPE 1-2
-# Activity/Program #2: Write a program that will ask your information. Print them in a fancy way.
+# Activity/Program #3: Write a program that will ask your information. Print them in a fancy way.
 
 # import module
 import pyfiglet
